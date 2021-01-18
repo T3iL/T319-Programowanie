@@ -31,6 +31,7 @@ git branch -d branch_do_usuniecia
 git merge branch_do_scalenia_z_aktualnym
 
 git checkout branch
+git checkout -b new_branch
 ```
 ### --------ZAD
 
