@@ -5,10 +5,11 @@
 1. Programowanie (zasady, paradygmaty, algorytmy)
 3. GIT
 ```
-
 ```bash
 git clone https://github.com/T3iL/T318-Recap . // (sklonuj do aktualnego katalogu, brak . utworzy katalog)
+```
  - zmiana                                      // (dokonaj zmiany)
+```bash
 git add .                                      // (zapisz zmiany na stosie)
 git commit -m 'komentarz'                      // (zaptwierdź zmiany)
 git push                                       // (wyślij na serwer)
