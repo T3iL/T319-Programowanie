@@ -13,7 +13,7 @@ git clone https://github.com/T3iL/T318-Recap . // (sklonuj do aktualnego katalog
  - zmiana                                      // (dokonaj zmiany)
 ```bash
 git add .                                      // (zapisz zmiany na stosie)
-git commit -m 'komentarz'                      // (zaptwierdź zmiany)
+git commit -m 'komentarz'                      // (zatwierdź zmiany)
 git push                                       // (wyślij na serwer)
 ``` 
  -----------------pobieranie zmian--------------------
