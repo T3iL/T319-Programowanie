@@ -14,6 +14,7 @@ git push                                       // (wyślij na serwer)
 ``` 
  -----------------pobieranie zmian--------------------
 ```
+
 ```bash
 git pull                                       // (pobierz zmiany)
 ```
