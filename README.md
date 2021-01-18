@@ -14,8 +14,6 @@ git commit -m 'komentarz'                      // (zaptwierdź zmiany)
 git push                                       // (wyślij na serwer)
 ``` 
  -----------------pobieranie zmian--------------------
-```
-
 ```bash
 git pull                                       // (pobierz zmiany)
 ```
