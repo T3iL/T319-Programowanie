@@ -22,7 +22,14 @@ git pull                                       // (pobierz zmiany)
 ```bash
 git reset --hard
 ```
+-----------------branches---------------------------
+```
+git branch nowy_branch
+git branch -d branch_do_usuniecia
+git merge branch_do_scalenia_z_aktualnym
 
+git checkout branch
+```
 ### --------ZAD
 
 ```
