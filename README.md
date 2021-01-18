@@ -2,14 +2,7 @@
 
 ## -------INFO
 ```
-1. Program na II semestr
- - Recap
- - Programowanie (zasady, paradygmaty, algorytmy)
- - PHP
- - CMS
- --------------------
- - Frameworki i biblioteki
-2. HTML, CSS, JS
+1. Programowanie (zasady, paradygmaty, algorytmy)
 3. GIT
  - git clone https://github.com/T3iL/T318-Recap . (sklonuj do aktualnego katalogu, brak . utworzy katalog)
  - zmiana                                         (dokonaj zmiany)
@@ -19,10 +12,9 @@
  
  -----------------pobieranie zmian--------------------
  - git pull                                       (pobierz zmiany)
- 
- 
-4. Hosting
-5. E09-E14
+
+ -----------------usuniecie ostatnich zmian-----------
+ - gir reset --hard
 ```
 
 ### --------ZAD
