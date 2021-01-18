@@ -4,30 +4,30 @@
 ```
 1. Programowanie (zasady, paradygmaty, algorytmy)
 3. GIT
- - git clone https://github.com/T3iL/T318-Recap . (sklonuj do aktualnego katalogu, brak . utworzy katalog)
- - zmiana                                         (dokonaj zmiany)
- - git add .                                      (zapisz zmiany na stosie)
- - git commit -m 'komentarz'                      (zaptwierdź zmiany)
- - git push                                       (wyślij na serwer)
- 
+git clone https://github.com/T3iL/T318-Recap . // (sklonuj do aktualnego katalogu, brak . utworzy katalog)
+ - zmiana                                      // (dokonaj zmiany)
+git add .                                      // (zapisz zmiany na stosie)
+git commit -m 'komentarz'                      // (zaptwierdź zmiany)
+git push                                       // (wyślij na serwer)
+``` 
  -----------------pobieranie zmian--------------------
- - git pull                                       (pobierz zmiany)
-
- -----------------usuniecie ostatnich zmian-----------
- - gir reset --hard
+```
+```cmd
+git pull                                       // (pobierz zmiany)
+```
+-----------------usuniecie ostatnich zmian-----------
+```
+git reset --hard
 ```
 
 ### --------ZAD
 
 ```
-T31801 - Przygotować, zaprojektować, ostylować bazę wiedzy o SW z wyszukiwarką.
-
-T31802 - Przygotować projekt drużynowy z użyciem GIT
-
+T31801 - Przygotować, zaprojektować, ostylować bazę wiedzy o SW z wyszukiwarką [drużynowo].
 ```
 
 ### --------Links
-https://github.com/T3iL/T318-Recap
+https://github.com/T3iL/T319-Programowanie
 
 https://git-scm.com/downloads
 
