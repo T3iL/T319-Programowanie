@@ -1,12 +1,10 @@
 # (2021.01.25) T319-Programowanie
 
 ## -------INFO
-```
-
-1. GIT (https://youtu.be/j-EhgAi-u-Y)[GIT OD PODSTAW - tutorial dla początkujących]
+1. GIT [GIT OD PODSTAW - tutorial dla początkujących](https://youtu.be/j-EhgAi-u-Y)
 2. Programowanie (zasady, paradygmaty, algorytmy)
 3. C++ Codeblocks
-```
+
 ----------------rozpoczynanie pracy z git-------------
 ```bash
 git init                                       // (utwórz puste repozytorium)
