@@ -3,7 +3,7 @@
 ## -------INFO
 ```
 
-1. GIT [GIT OD PODSTAW - tutorial dla początkujących](https://youtu.be/j-EhgAi-u-Y)
+1. GIT (https://youtu.be/j-EhgAi-u-Y)[GIT OD PODSTAW - tutorial dla początkujących]
 2. Programowanie (zasady, paradygmaty, algorytmy)
 3. C++ Codeblocks
 ```
