@@ -8,6 +8,7 @@
 3. C++ Codeblocks
 ```
 ```bash
+git init                                       // (utwórz puste repozytorium)
 git clone https://github.com/T3iL/T318-Recap . // (sklonuj do aktualnego katalogu, brak . utworzy katalog)
 ```
  - zmiana                                      // (dokonaj zmiany)
