@@ -7,6 +7,7 @@
 2. Programowanie (zasady, paradygmaty, algorytmy)
 3. C++ Codeblocks
 ```
+----------------rozpoczynanie pracy z git-------------
 ```bash
 git init                                       // (utwórz puste repozytorium)
 git clone https://github.com/T3iL/T318-Recap . // (sklonuj do aktualnego katalogu, brak . utworzy katalog)
@@ -17,7 +18,12 @@ git add .                                      // (zapisz zmiany na stosie)
 git commit -m 'komentarz'                      // (zatwierdź zmiany)
 git push                                       // (wyślij na serwer)
 ``` 
- -----------------pobieranie zmian--------------------
+-----------------stan repozytorium-------------------
+```
+git status
+git log
+```
+-----------------pobieranie zmian--------------------
 ```bash
 git pull                                       // (pobierz zmiany)
 ```
