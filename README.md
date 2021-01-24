@@ -63,7 +63,8 @@ https://icons.getbootstrap.com/
 ### -------TUTORIALS
 
 1. [GIT OD PODSTAW - tutorial dla początkujących](https://youtu.be/j-EhgAi-u-Y)
-2. [Python Tutorial - Python for Beginners [2020]](https://youtu.be/kqtD5dpn9C8)
+2. Mosh: [Python Tutorial - Python for Beginners [2020]](https://youtu.be/kqtD5dpn9C8)
+3. Mosh: [Java Tutorial for Beginners [2020]](https://youtu.be/eIrMbAQSU34)
 
 
 ### -------OTHER RESOURCES
@@ -72,8 +73,9 @@ https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 https://randomuser.me/ | https://jsonplaceholder.typicode.com/ | https://swapi.co | https://jokes.one/
 ### --------Repositiories
 https://www.w3schools.com | https://stackoverflow.com | https://css-tricks.com |
-### --------On line editors
-https://codepen.io/ | https://codesandbox.io/ | https://jsfiddle.net/ | https://codehs.com/editor/sandbox/explore
+### --------On line editors (sandboxes)
+
+https://codehs.com/editor/sandbox/explore | https://codepen.io/ | https://codesandbox.io/ | https://jsfiddle.net/ | 
 
 PHP: https://sandbox.onlinephpfunctions.com/
 
