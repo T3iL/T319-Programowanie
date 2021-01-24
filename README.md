@@ -43,6 +43,12 @@ git checkout -b new_branch
 
 ```
 T31801 - Przygotować, zaprojektować, ostylować bazę wiedzy o SW z wyszukiwarką [drużynowo].
+
+T31902 - Narysuj schemat blokowy algorytmu obliczania pola prostokąta.
+
+T31903 - Napisz w postaci listy kroków algorytm wysyłania wiadomości e-mail.
+
+T31904 - Wypełnij tabelę charakterystyki języków programowania
 ```
 
 ### --------Links
