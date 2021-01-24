@@ -1,7 +1,8 @@
 # (2021.01.25) T319-Programowanie
 
 ## -------INFO
-1. [GIT OD PODSTAW - tutorial dla początkujących](https://youtu.be/j-EhgAi-u-Y)
+
+1. GIT cd
 2. Programowanie (zasady, paradygmaty, algorytmy)
 3. C++ Codeblocks
 
@@ -61,7 +62,9 @@ https://icons.getbootstrap.com/
 
 ### -------TUTORIALS
 
-[Python Tutorial - Python for Beginners [2020]](https://youtu.be/kqtD5dpn9C8)
+1. [GIT OD PODSTAW - tutorial dla początkujących](https://youtu.be/j-EhgAi-u-Y)
+2. [Python Tutorial - Python for Beginners [2020]](https://youtu.be/kqtD5dpn9C8)
+
 
 ### -------OTHER RESOURCES
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
@@ -70,7 +73,14 @@ https://randomuser.me/ | https://jsonplaceholder.typicode.com/ | https://swapi.c
 ### --------Repositiories
 https://www.w3schools.com | https://stackoverflow.com | https://css-tricks.com |
 ### --------On line editors
-https://codepen.io/ | https://codesandbox.io/ | https://jsfiddle.net/ |
+https://codepen.io/ | https://codesandbox.io/ | https://jsfiddle.net/ | https://codehs.com/editor/sandbox/explore
+
+PHP: https://sandbox.onlinephpfunctions.com/
+
+CPP: http://cpp.sh/
+
+PYTHON: 
+
 ### ---------Assets
 https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fonts.google.com/ |
 ### ---------Stock Img
