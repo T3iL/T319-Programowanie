@@ -47,6 +47,8 @@ T31801 - Przygotować, zaprojektować, ostylować bazę wiedzy o SW z wyszukiwar
 ### --------Links
 https://github.com/T3iL/T319-Programowanie
 
+GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
+
 https://git-scm.com/downloads
 
 https://www.cdnpkg.com/font-awesome
@@ -57,9 +59,11 @@ https://iconify.design/
 
 https://icons.getbootstrap.com/
 
-GOOGLE DRIVE: 
-https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
+### -------TUTORIALS
 
+(https://youtu.be/kqtD5dpn9C8)[Python Tutorial - Python for Beginners [2020]]
+
+### -------OTHER RESOURCES
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------JSON APIS
 https://randomuser.me/ | https://jsonplaceholder.typicode.com/ | https://swapi.co | https://jokes.one/
