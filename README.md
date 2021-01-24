@@ -61,7 +61,7 @@ https://icons.getbootstrap.com/
 
 ### -------TUTORIALS
 
-(https://youtu.be/kqtD5dpn9C8)[Python Tutorial - Python for Beginners [2020]]
+[Python Tutorial - Python for Beginners [2020]](https://youtu.be/kqtD5dpn9C8)
 
 ### -------OTHER RESOURCES
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
