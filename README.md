@@ -56,6 +56,8 @@ https://github.com/T3iL/T319-Programowanie
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
 
+schematy blokowe: draw.io
+
 https://git-scm.com/downloads
 
 https://www.cdnpkg.com/font-awesome
