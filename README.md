@@ -7,6 +7,10 @@
 3. C++ Codeblocks
 
 ----------------rozpoczynanie pracy z git-------------
+```
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
 ```bash
 git init                                       // (utwórz puste repozytorium)
 git clone https://github.com/T3iL/T318-Recap . // (sklonuj do aktualnego katalogu, "nazwa_katoalogu" zamiast . utworzy katalog "nazwa_katalogu")
