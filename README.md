@@ -50,7 +50,7 @@ T31801 - Przygotować, zaprojektować, ostylować bazę wiedzy o SW z wyszukiwar
 
 T31902 - Narysuj schemat blokowy algorytmu obliczania pola prostokąta.
 
-T31903 - Napisz w postaci listy kroków algorytm wysyłania wiadomości e-mail.
+T31903 - Narysuj schemat blokowy algorytm wysyłania wiadomości e-mail.
 
 T31904 - Wypełnij tabelę charakterystyki języków programowania
 ```
