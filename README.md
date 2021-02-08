@@ -53,6 +53,8 @@ T31902 - Narysuj schemat blokowy algorytmu obliczania pola prostokąta.
 T31903 - Narysuj schemat blokowy algorytm wysyłania wiadomości e-mail.
 
 T31904 - Wypełnij tabelę charakterystyki języków programowania
+
+T31905 - Narysuj schemat blokowy znajdowania największego elementu w zbiorze nieuporządkowanym
 ```
 
 ### --------Links
