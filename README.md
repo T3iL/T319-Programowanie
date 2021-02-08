@@ -85,6 +85,9 @@ https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 https://randomuser.me/ | https://jsonplaceholder.typicode.com/ | https://swapi.co | https://jokes.one/
 ### --------Repositiories
 https://www.w3schools.com | https://stackoverflow.com | https://css-tricks.com | https://www.codewars.com/
+
+app.diagrams.net = draw.io
+
 ### --------On line editors (sandboxes)
 
 https://codehs.com/editor/sandbox/explore | https://codepen.io/ | https://codesandbox.io/ | https://jsfiddle.net/ | 
